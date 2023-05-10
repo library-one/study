@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javach4project/javach4project.iml" filepath="$PROJECT_DIR$/javach4project/javach4project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javach4project/javawebpage1/javawebpage1.iml" filepath="$PROJECT_DIR$/javach4project/javawebpage1/javawebpage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t20230423/t20230423.iml" filepath="$PROJECT_DIR$/t20230423/t20230423.iml" />
+      <module fileurl="file://$PROJECT_DIR$/to20230508/to20230508.iml" filepath="$PROJECT_DIR$/to20230508/to20230508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/to20230510/to20230510.iml" filepath="$PROJECT_DIR$/to20230510/to20230510.iml" />
+      <module fileurl="file://$PROJECT_DIR$/today20230403/today20230403.iml" filepath="$PROJECT_DIR$/today20230403/today20230403.iml" />
+      <module fileurl="file://$PROJECT_DIR$/today20230410/today20230410.iml" filepath="$PROJECT_DIR$/today20230410/today20230410.iml" />
+      <module fileurl="file://$PROJECT_DIR$/today20230417/today20230417.iml" filepath="$PROJECT_DIR$/today20230417/today20230417.iml" />
+    </modules>
+  </component>
+</project>
