@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95bde555-c2f9-45fc-a94a-eb57b55d1fc9" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/ch11/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/ConnectionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/DBConnectionMgr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/MemberBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/MemberMgr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/db/DBConnectionMgr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/mem/ConnectionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/mem/DBConnectionMgr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/mem/MemberBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/build/classes/mem/MemberMgr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/DBConnectionMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/MemberBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/MemberMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/db/DBConnectionMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/mem/DBConnectionMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/mem/MemberBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/java/mem/MemberMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/webapp/member.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/webapp/memberList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/src/main/webapp/memberProc.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/to20230510/to20230510.iml" beforeDir="false" afterPath="$PROJECT_DIR$/to20230510/to20230510.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/javach4project/javawebpage1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PbLBxlWbM01fpOazpFAEb3RTk9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/user/Desktop/자바/javacode/javach4project/mysql-connector-java-8.0.30.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.15820312",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PhoneGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneGUI" />
+      <module name="javach4project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.PhoneGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="95bde555-c2f9-45fc-a94a-eb57b55d1fc9" name="변경" comment="" />
+      <created>1683720703586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683720703586</updated>
+      <workItem from="1683720704968" duration="2127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
